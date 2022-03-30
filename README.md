@@ -1,3 +1,4 @@
-# Web_actvidad_1.3.2
+Integrantes:
 María Yael Velasquez
 Yehudi Lara
+SECCION: PGY3121
